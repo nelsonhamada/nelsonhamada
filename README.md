@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nelson Hamada</h1>
-<h3 align="center">A passionate Full-stack developer and musician from São Paulo, Brazil</h3>
+<h3 align="center">A passionate Full-stack developer and musician from Sao Paulo, Brazil</h3>
 
 - I’m currently working on [market-CRUD](https://github.com/nelsonhamada/market-CRUD)
 
