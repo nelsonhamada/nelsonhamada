@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Nelson Hamada</h1>
-<h3 align="center">A passionate Full-stack developer and musician from Sao Paulo, Brazil</h3>
+<h1 align="center">Hi, I'm Nelson Hamada.</h1>
+<h3 align="center">A passionate Full-stack developer and musician from Sao Paulo, Brazil.</h3>
 
 - I’m currently working on [market-CRUD](https://github.com/nelsonhamada/market-CRUD)
 
-- 🌱 I’m currently learning **Sql and backend stuffs.**
+- I’m currently learning **Sql and backend stuffs.**
 
-- 📫 How to reach me:
+- How to reach me:
  
     <a href = "mailto:fumiyuki.hamada@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>     
 
