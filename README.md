@@ -5,7 +5,7 @@
 
 - I’m currently learning **Sql and backend stuffs.**
 
-- How to reach me:
+- How to reach me: #OpenToWork
  
     <a href = "mailto:fumiyuki.hamada@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>     
 
