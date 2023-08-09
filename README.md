@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Nelson Hamada.</h1>
 <h3 align="center">A passionate Full-stack developer and musician from Sao Paulo, Brazil. </h3>
 
-- I’m currently working on [market-CRUD](https://github.com/nelsonhamada/market-CRUD)
+- I’m currently working on [API-marketplace](https://github.com/nelsonhamada/APIrestful-marketplace)
 
-- I’m currently learning **Sql and backend stuffs.**
+- I’m currently learning **Node express and backend stuffs.**
 
 - How to reach me: 
  
