@@ -3,7 +3,7 @@
 
 - I’m currently working on [API-marketplace](https://github.com/nelsonhamada/APIrestful-marketplace)
 
-- I’m currently learning **Node express and backend stuffs.**
+- I’m currently learning **C# .Net and Python**
 
 - How to reach me: 
  
