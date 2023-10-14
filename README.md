@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nelson Hamada.</h1>
 <h3 align="center">A passionate Full-stack developer and musician from Sao Paulo, Brazil. </h3>
 
-- I’m currently working on [API-marketplace](https://github.com/nelsonhamada/APIrestful-marketplace)
+- I’m currently working on [Ze-code-challenge](https://github.com/nelsonhamada/ze-delivery-chalenge)
 
 - I’m currently learning **C# .Net and Python**
 
