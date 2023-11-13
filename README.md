@@ -3,7 +3,7 @@
 
 - I’m currently working on [Ze-code-challenge](https://github.com/nelsonhamada/ze-delivery-chalenge)
 
-- I’m currently learning **C# .Net and Python**
+- I’m currently learning **Java and Python**
 
 - How to reach me: 
  
