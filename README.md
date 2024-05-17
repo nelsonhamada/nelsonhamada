@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nelson Hamada.</h1>
 <h3 align="center">A passionate Full-stack developer and musician from Sao Paulo, Brazil. </h3>
 
-- I’m currently learning **Java and Python**
+- I’m currently learning **C# and Machine Learn**
 
 - How to reach me: 
  
